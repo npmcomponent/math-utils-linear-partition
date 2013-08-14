@@ -1,0 +1,11 @@
+{
+  "name": "linear-partition",
+  "description": "Linear partition algorithm",
+  "version": "0.0.1",
+  "scripts": [
+    "linear_partition.js"
+  ],
+  "main": "linear_partition.js",
+  "license": "MIT",
+  "repo": "jonathanong/linear-partition"
+}

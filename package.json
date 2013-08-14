@@ -1,0 +1,24 @@
+{
+  "name": "linear-partition",
+  "description": "Linear partition algorithm",
+  "version": "0.0.1",
+  "main": "linear_partition.js",
+  "author": {
+    "name": "Jonathan Ong",
+    "email": "me@jongleberry.com",
+    "url": "http://jongleberry.com",
+    "twitter": "https://twitter.com/jongleberry"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jonathanong/linear-partition.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jonathanong/linear-partition/issues",
+    "email": "me@jongleberry.com"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "license": "MIT"
+}
