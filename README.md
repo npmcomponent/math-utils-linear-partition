@@ -19,7 +19,7 @@ Further reading:
 var part = require('linear-partition')
 var parts = part([9,2,6,3,8,5,8,1,7,3,4], 3)
 
-# parts === [[9,2,6,3],[8,5,8],[1,7,3,4]]
+// parts === [[9,2,6,3],[8,5,8],[1,7,3,4]]
 ```
 
 ## License
