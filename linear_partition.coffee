@@ -43,5 +43,8 @@ linear_partition = (seq, k) ->
 # Some k values too large create empty rows and throw.
 # If that is the case, then we lower k until it doesn't.
 module.exports = (seq, k) ->
+  if k <= 0
+    return []
+
   while k
     try return linear_partition(seq, k--)
