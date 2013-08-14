@@ -14,7 +14,7 @@ min = (arr) ->
 
   result.value
 
-module.exports = (seq, k) ->
+linear_partition = (seq, k) ->
   n = seq.length
 
   return [] if k <= 0
@@ -39,3 +39,9 @@ module.exports = (seq, k) ->
     k = k-1
 
   [seq[i] for i in [0...n+1]].concat ans
+
+# Some k values too large create empty rows and throw.
+# If that is the case, then we lower k until it doesn't.
+module.exports = (seq, k) ->
+  while k >= 0
+    try return linear_partition(seq, k--)
