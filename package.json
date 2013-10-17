@@ -20,5 +20,8 @@
   "scripts": {
     "test": "make test"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "~1.13.0"
+  }
 }
