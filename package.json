@@ -11,10 +11,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jonathanong/linear-partition.git"
+    "url": "https://github.com/math-utils/linear-partition.git"
   },
   "bugs": {
-    "url": "https://github.com/jonathanong/linear-partition/issues",
+    "url": "https://github.com/math-utils/linear-partition/issues",
     "email": "me@jongleberry.com"
   },
   "scripts": {

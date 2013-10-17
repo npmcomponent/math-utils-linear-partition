@@ -1,4 +1,4 @@
-# Linear Partition [![Build Status](https://travis-ci.org/jonathanong/linear-partition.png)](https://travis-ci.org/jonathanong/linear-partition)
+# Linear Partition [![Build Status](https://travis-ci.org/math-utils/linear-partition.png)](https://travis-ci.org/math-utils/linear-partition)
 
 This is just a component and vanilla Javascript version of the original repo at https://github.com/crispymtn/linear-partition.
 

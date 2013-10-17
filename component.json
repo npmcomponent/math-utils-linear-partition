@@ -7,5 +7,5 @@
   ],
   "main": "linear_partition.js",
   "license": "MIT",
-  "repo": "jonathanong/linear-partition"
+  "repo": "math-utils/linear-partition"
 }
