@@ -2,6 +2,8 @@
 
 This is just a component and vanilla Javascript version of the original repo at https://github.com/crispymtn/linear-partition.
 You may be interested in [horizontal-grid-packing](https://github.com/jonathanong/horizontal-grid-packing).
+Also see [linear-partitioning](https://github.com/the-swerve/linear-partitioning) which is written in vanilla Javascript and performs better than this library.
+For a component version, see [math-utils/linear-partitioning](https://github.com/math-utils/linear-partitioning).
 
 Further reading:
 
