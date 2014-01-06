@@ -1,27 +1,8 @@
 {
-  "name": "linear-partition",
+  "name": "math-utils-linear-partition",
   "description": "Linear partition algorithm",
   "version": "0.0.2",
   "main": "linear_partition.js",
-  "author": {
-    "name": "Jonathan Ong",
-    "email": "me@jongleberry.com",
-    "url": "http://jongleberry.com",
-    "twitter": "https://twitter.com/jongleberry"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/math-utils/linear-partition.git"
-  },
-  "bugs": {
-    "url": "https://github.com/math-utils/linear-partition/issues",
-    "email": "me@jongleberry.com"
-  },
-  "scripts": {
-    "test": "make test"
-  },
-  "license": "MIT",
-  "devDependencies": {
-    "mocha": "~1.13.0"
-  }
+  "dependencies": {},
+  "license": "MIT"
 }

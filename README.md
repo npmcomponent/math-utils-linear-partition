@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [math/utils-linear-partition](http://github.com/math/utils-linear-partition). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/math-utils-linear-partition`.*
 # Linear Partition [![Build Status](https://travis-ci.org/math-utils/linear-partition.png)](https://travis-ci.org/math-utils/linear-partition)
 
 This is just a component and vanilla Javascript version of the original repo at https://github.com/crispymtn/linear-partition.
